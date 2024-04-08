@@ -1,0 +1,1 @@
+{"name":"Local: DSA01003","url":"d:\\CTDL_PTIT\\CTDL_PTIT\\DSA01003.cpp","tests":[{"id":1644486449494,"input":"2\n3 \n2 3 1\n5\n5 4 3 1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CTDL_PTIT\\CTDL_PTIT\\DSA01003.cpp","group":"local","local":true}
